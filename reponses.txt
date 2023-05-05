@@ -1,0 +1,4 @@
+a-)La commande git fetch met à jour toutes les références distantes sur votre dépôt local sans modifier vos références locales alors que la commande git pull fait la même chose que la commande git fetch, mais en plus, elle vas merge votre branche courante avec sa référence distante.
+b-) git checkout est une commande qui annulera les modifications non validées pour les fichiers suivis
+c-)On peut supprimer une branche locale à l'aide de la git branch -d
+d-) Pour consulter l'historique des modifications pour un fichier Git il est possible d'utiliser la commande git log 
